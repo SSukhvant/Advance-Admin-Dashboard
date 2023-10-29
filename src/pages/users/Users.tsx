@@ -58,7 +58,6 @@ const Users = () => {
   const [open, setOpen] = useState(false);
 
   // TEST THE API
-
   // const { isLoading, data } = useQuery({
   //   queryKey: ["allusers"],
   //   queryFn: () =>
